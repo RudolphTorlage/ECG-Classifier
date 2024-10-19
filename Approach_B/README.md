@@ -13,7 +13,8 @@ The project followed the approach:
 - Train the model
 - Evaluate the performance
 
-#Pre-processing
+*Pre-processing*
+
 **Note that all references to the location of files within Google Drive will need to be adjusted to match your personal details**
 
 The code for this part of the project can be found in pre-processing.ipynb.
@@ -22,13 +23,15 @@ The pre-processing had two main goals:
 - Clean, Balance, and Process the data with the intent of improving model performance.
 - Combine data into ready-to-use splits with the intent of reducing the resources needed (System RAM and GPU RAM) by the training file.
 
-#Training
+*Training*
+
 **Note that all references to the location of files within Google Drive will need to be adjusted to match your personal details**
 
 The code for training the model can be found in training.ipynb.
 The pre-trained model is also included in this repo for ease of use.
 
-#Evaluating the model performance
+*Evaluating the model performance*
+
 **Note that all references to the location of files within Google Drive will need to be adjusted to match your personal details**
 
 The code for evaluating the model performance can be found in testing.ipynb.
