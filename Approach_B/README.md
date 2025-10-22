@@ -1,7 +1,8 @@
 Last updated: 19/10/2024
 Author: Rudolph Torlage
 
-This folder contains the code, and models for Approach B as described in the paper "Using ML to diagnose cardiac arrhythmias on 12-lead electrocardiograms"
+This folder contains the code, and models for Approach B as described in the paper "Using ML to diagnose cardiac arrhythmias on 12-lead electrocardiograms".
+https://drive.google.com/file/d/1upbGYnKh-mD4vT9g_4sBrRVlw3ubHkxi/view?usp=drive_link
 
 The data used in this project is part of an open-source dataset called CODE15, and can be obtained here: https://zenodo.org/records/4916206 [1]
 
